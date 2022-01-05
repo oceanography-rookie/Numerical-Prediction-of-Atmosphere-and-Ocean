@@ -1,1 +1,3 @@
 # Numerical-Prediction-of-Atmosphere-and-Ocean
+### The course provides the description and practical exercises with models of different complexity simulating basic dynamical processes in the atmosphere and ocean. The focus is on the data assimilation methods that prepare initial state for the prediction. The secondary focus is on predictability or its loss that limits the extent of useful forecasts. 
+### Knowledge and understanding include atmosphericand ocean observations, data assimilation methods in theory and practice, basics of the formulation of numerical models, predictability, and ensemble forecasting.
